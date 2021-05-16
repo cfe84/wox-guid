@@ -1,0 +1,13 @@
+{
+    "ID":"7258ab16-fffd-4862-839a-43c7f21b5282",
+    "ActionKeyword":"guid",
+    "Name":"GUID",
+    "Description":"Get a new GUID from Wox",
+    "Author":"Charles",
+    "Version":"1.0",
+    "Language":"executable",
+    "Website":"https://github.com/cfe84/wox-guid",
+    "IcoPath":"app.png",
+    "ExecuteFileName":"run.bat",
+    "Disabled": false
+}
